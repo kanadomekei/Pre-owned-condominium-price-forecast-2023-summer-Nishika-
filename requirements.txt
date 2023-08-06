@@ -1,0 +1,8 @@
+#pip install -r requirements.txt
+xgboost
+lightgbm
+catboost
+optuna
+pandas-profiling
+shap
+mlflow

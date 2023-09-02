@@ -1,11 +1,39 @@
 #pip install -r requirements.txt
+
+# 機械学習フレームワーク
+sklearn
 xgboost
 lightgbm
 catboost
+
+# ハイパーパラメータ最適化
 optuna
+
+# データ解析・プロファイリング
 pandas-profiling
+
+# モデル解釈
 shap
+
+# 実験管理
 mlflow
+
+# タブラー（表形式）データ用のディープラーニング
 pytorch_tabular
-deepctr-torch
-pytorch-widedeep
+pytorch-tabnet
+
+# レコメンデーション・CTR（クリックスルー率）予測
+# deepctr-torch
+# pytorch-widedeep
+
+# データ前処理・特徴量エンジニアリング
+xfeat
+
+# 数値計算
+numpy
+
+# データ操作・分析
+pandas
+
+# 可視化
+matplotlib

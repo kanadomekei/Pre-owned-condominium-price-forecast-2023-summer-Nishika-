@@ -6,3 +6,6 @@ optuna
 pandas-profiling
 shap
 mlflow
+pytorch_tabular
+deepctr-torch
+pytorch-widedeep
